@@ -46,30 +46,39 @@ Gera um relatório executivo em Excel com dashboards automáticos de inteligênc
 
 ## ⚙️ Guia de Instalação e Configuração
 
-Como este é um software de alta performance que lida com grandes volumes de dados, siga rigorosamente os passos abaixo:
+Siga os passos abaixo para configurar sua estação de trabalho:
 
-1. **Instalação:** Baixe o arquivo `ChandraB2B_v5.5.exe` na aba **Releases** e instale-o no local de sua preferência.
-2. **Preparação da Base:** Após a instalação, localize a pasta raiz do programa.
-3. **Pasta de Dados:** Cole a pasta `base_dados` (fornecida no repositório ou via suporte) diretamente na raiz da instalação.
-4. **Sincronização:**  Abra o Chandra B2B.
-    * Vá até a aba **ADMIN**.
-    * Clique no botão **"Importar Base"** para vincular os arquivos ao motor de busca.
+1. **Instalação:** Baixe o arquivo `ChandraB2B_v5.5.exe` na aba [Releases](https://github.com/sbf8/ChandraB2B/releases).
+2. **Download da Base de Dados:** Baixe a **Base de Demonstração (Fev/2026)** no link abaixo:
+   * 📥 **[Download Base de Dados (5GB) - Mega.nz](https://mega.nz/file/eiJmCShQ#Xxq5ATDJuLCT0nIVbQKoyWZhNvPrHVc4qLO1LGs7Byc)**
+3. **Configuração:** * Extraia o conteúdo do ZIP.
+   * Cole a pasta `base_dados` diretamente na raiz onde instalou o programa.
+4. **Sincronização:** Abra o Chandra B2B, vá na aba **ADMIN** e clique em **"Importar Base"**.
   
 ---
 
-## 🔑 Ativação e Teste Gratuito (24 Horas)
+## 💎 Planos, Licenciamento e Atualizações
+
+O Chandra B2B utiliza um modelo de licenciamento flexível para se adaptar ao tamanho da sua empresa.
+
+| Recurso | Versão de Demonstração | Versão Pro / Enterprise |
+| :--- | :--- | :--- |
+| **Base de Dados** | Fevereiro / 2026 | **Atualização Mensal (Maio/2026+)** |
+| **Abrangência** | Estadual | Nacional (Filtro por UF) |
+| **Suporte** | Via GitHub / Issues | **WhatsApp Direto & Consultoria** |
+| **Licença** | 24 Horas (Teste) | Mensal ou Anual |
+
+---
+
+## 🔑 Ativação e Suporte
 
 O software utiliza proteção por **HWID**, garantindo que sua licença seja exclusiva para sua máquina.
 
-**Como solicitar seu teste:**
-
-1. Inicie o programa pela primeira vez.
-2. Na tela de bloqueio, copie o seu código **HARDWARE ID**.
-3. Entre em contato com o suporte e envie o seu ID para receber um serial de ativação válido por 24 horas:
-   
-    **WhatsApp:** [Clique para Enviar ID](https://wa.me/5534984241729)
-  
-    **Suporte:** Samuel Bovo Filiaci 
+**Para solicitar seu Serial Teste ou consultar valores de atualização de base:**
+1. Inicie o programa e copie o seu código **HARDWARE ID** na tela de bloqueio.
+2. Envie o ID para o nosso suporte:
+   * **WhatsApp:** [Solicitar Serial / Atualização de Base](https://wa.me/5534984241729)
+   * **Responsável:** Samuel Bovo Filiaci
 
 ---
 
