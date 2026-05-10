@@ -36,11 +36,11 @@ Gera um relatório executivo em Excel com dashboards automáticos de inteligênc
 
 ### 🔍 Interface de Buscas
 
-  <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/ef076a72-f6d2-4e15-955b-2aabbdc94429" />
+  <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/0198a93e-b182-41ee-b12d-795b58f7fdcb" />
 
 ### 📈 Dashboard de Consultoria
 
-  <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/f7dee31c-bd50-4ec5-8ccf-0aa81ef9a1be" />
+  <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/79339bca-2444-4792-a7ad-37dba6bc31d4" />
 
 ---
 
@@ -95,7 +95,3 @@ O software utiliza proteção por **HWID**, garantindo que sua licença seja exc
 ---
 
 **Nota:** O Chandra B2B utiliza apenas dados públicos disponibilizados pela Receita Federal do Brasil.
-
----
-
-Ficou claro o fluxo da pasta `base_dados`? Se precisar de ajuda para explicar algo mais técnico na aba ADMIN, é só avisar!
