@@ -1,97 +1,107 @@
-Chandra B2B: Inteligência de Dados e Prospecção Estratégica
+<div align="center">
 
-O **Chandra B2B** é uma plataforma de alta performance desenvolvida para transformar a base de dados públicos da Receita Federal em uma máquina de crescimento para empresas. Utilizando tecnologias de ponta como **DuckDB** e **Parquet**, o sistema processa milhões de registros em segundos, permitindo análises que antes levavam dias.
+# 🛰️ CHANDRA B2B
+### `Inteligência de Dados & Prospecção Estratégica Next-Gen`
 
----
+[![Versão](https://img.shields.io/badge/v5.5-Stable-00ffcc?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a)](#)
+[![Stack](https://img.shields.io/badge/Stack-DuckDB%20%7C%20Parquet-ff007f?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a1a)](#)
+[![Licença](https://img.shields.io/badge/Licença-Proprietária-f0b90b?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=1a1a1a)](#)
 
-## 🛠 Módulos e Funcionalidades
-
-O sistema é dividido em abas especializadas para diferentes necessidades de negócio:
-
-### 1. 💰 Aba de Buscas (Vendas & Marketing)
-
-Nesta aba, você filtra o mercado ideal para o seu produto ou serviço:
-
-* **Módulo Vendas:** Gera planilhas de prospecção com Score de Prioridade (baseado em capital e estrutura), links diretos para WhatsApp e colunas de gestão de funil.
-
-* **Módulo Marketing (Meta Ads):** Exporta listas formatadas para a criação de **Públicos Semelhantes (Lookalike)** no Gerenciador de Anúncios, com tratamento de nomes de sócios e higienização de dados.
-
-* **Módulo Sherlock:** Uma ferramenta de investigação profunda que mapeia a árvore societária, endereços via Google Maps e a situação cadastral detalhada de qualquer CNPJ.
-
-### 2. 📊 Aba de Consultoria (Dossiê Gold)
-
-Gera um relatório executivo em Excel com dashboards automáticos de inteligência competitiva:
-
-* **Market Cap Total:** Soma do investimento do setor na região.
-
-* **Ciclo de Vida e Risco:** Gráficos que mostram quando e por que as empresas do setor costumam encerrar as atividades.
-
-* **Geomarketing:** Mapa de calor de bairros com maior concentração de capital.
-
-* **Grupos Econômicos:** Identificação de "Serial Entrepreneurs" e holdings locais.
+*Bem-vindo à nova era da inteligência de mercado. O **Chandra B2B** é um ecossistema de alta performance desenhado para processar todo o Big Data da Receita Federal em frações de segundo, transformando dados brutos em uma máquina de escala imprevisível para o seu negócio.*
 
 ---
 
-## 📸 Demonstração do Sistema
+</div>
 
-### 🔍 Interface de Buscas
+## 🌐 Arquitetura do Sistema: Módulos Operacionais
 
-  <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/0198a93e-b182-41ee-b12d-795b58f7fdcb" />
+O ambiente do Chandra foi arquitetado para máxima eficiência, segmentado em duas interfaces de alto impacto:
 
-### 📈 Dashboard de Consultoria
+### 🎯 `[MÓDULO 01]` Aquisição & Hyper-Targeting (Vendas e Meta Ads)
+Projetado para times de *Growth* e Vendas que precisam de precisão cirúrgica no mercado.
 
-  <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/79339bca-2444-4792-a7ad-37dba6bc31d4" />
+* <kbd>⚡ Score de Prioridade</kbd> Algoritmo inteligente que cruza capital social e estrutura para definir quem tem maior potencial de compra.
+* <kbd>📲 One-Click Pipeline</kbd> Geração de planilhas nativas para funil de vendas, já integradas com links de disparo rápido para WhatsApp.
+* <kbd>🤖 Lookalike Engine</kbd> Exportação de matrizes de dados higienizadas e formatadas especificamente para o algoritmo da Meta (Facebook/Instagram), maximizando o *Match Rate* dos seus públicos.
+* <kbd>🕵️ Deep Sherlock</kbd> Raio-X corporativo: desvende a malha societária completa, validade cadastral e coordenadas geográficas (Google Maps) de qualquer CNPJ em milissegundos.
 
----
+### 📊 `[MÓDULO 02]` Dossiê Gold (Business Intelligence)
+O painel de comando para consultorias e inteligência competitiva de nível corporativo.
 
-## ⚙️ Guia de Instalação e Configuração
+* <kbd>💰 Market Cap Explorer</kbd> Consolidação do volume financeiro de setores inteiros, mapeado por região.
+* <kbd>📉 Análise de Risco & Ciclo</kbd> Modelagem visual do tempo de vida útil das empresas no setor, identificando padrões de mortalidade empresarial.
+* <kbd>🗺️ Geomarketing</kbd> Renderização de mapas de calor preditivos, destacando polos de concentração de capital (onde o dinheiro realmente está).
+* <kbd>🧬 Mapeamento de Holdings</kbd> Rastreio de Grupos Econômicos e identificação de "Serial Entrepreneurs" atuando nas sombras do mercado local.
 
-Siga os passos abaixo para configurar sua estação de trabalho:
+<br>
 
-1. **Instalação:** Baixe o arquivo `ChandraB2B_v5.5.exe` na aba [Releases](https://github.com/sbf8/ChandraB2B/releases).
-2. **Download da Base de Dados:** Baixe a **Base de Demonstração (Fev/2026)** no link abaixo:
-   * 📥 **[Download Base de Dados (5GB) - Mega.nz](https://mega.nz/file/eiJmCShQ#Xxq5ATDJuLCT0nIVbQKoyWZhNvPrHVc4qLO1LGs7Byc)**
-3. **Configuração:** * Extraia o conteúdo do ZIP.
-   * Cole a pasta `base_dados` diretamente na raiz onde instalou o programa.
-4. **Sincronização:** Abra o Chandra B2B, vá na aba **ADMIN** e clique em **"Importar Base"**.
-  
----
+<div align="center">
 
-## 💎 Planos, Licenciamento e Atualizações
+## 🖥️ INTERFACE DO USUÁRIO (UI)
 
-O Chandra B2B utiliza um modelo de licenciamento flexível para se adaptar ao tamanho da sua empresa.
+> *"A complexidade do Big Data reduzida a cliques."*
 
-| Recurso | Versão de Demonstração | Versão Pro / Enterprise |
+**Painel de Prospecção Avançada**<br>
+<img width="90%" style="border-radius: 10px; border: 2px solid #333;" alt="Interface de Buscas" src="https://github.com/user-attachments/assets/0198a93e-b182-41ee-b12d-795b58f7fdcb" />
+
+<br><br>
+
+**Dashboard Analítico (Dossiê Gold)**<br>
+<img width="90%" style="border-radius: 10px; border: 2px solid #333;" alt="Dashboard de Consultoria" src="https://github.com/user-attachments/assets/79339bca-2444-4792-a7ad-37dba6bc31d4" />
+
+</div>
+
+<br>
+
+## ⚙️ PROTOCOLO DE INICIALIZAÇÃO
+
+Configure o ambiente local da sua máquina em três etapas rápidas:
+
+# 1. Obtenha o Core do Sistema
+Faça o download do executável 'ChandraB2B_v5.5.exe' diretamente na aba [Releases] do repositório.
+
+# 2. Ingestão do Banco de Dados (Data Lake)
+Faça o download da matriz de dados de Demonstração (5GB):
+➤ Link Seguro: [Mega.nz - Base Fev/2026](https://mega.nz/file/eiJmCShQ#Xxq5ATDJuLCT0nIVbQKoyWZhNvPrHVc4qLO1LGs7Byc)
+
+# 3. Deploy Local
+Extraia a base de dados.
+Mova a pasta 'base_dados' para o diretório raiz da instalação do Chandra.
+Execute o sistema > Aba ADMIN > "Importar Base".
+<br>
+
+## 💎 UPGRADES & LICENCIAMENTO
+
+| Especificação | `[MODO TRIAL]` | `[CHANDRA PRO / ENTERPRISE]` |
 | :--- | :--- | :--- |
-| **Base de Dados** | Fevereiro / 2026 | **Atualização Mensal (Maio/2026+)** |
-| **Abrangência** | Estadual | Nacional (Filtro por UF) |
-| **Suporte** | Via GitHub / Issues | **WhatsApp Direto & Consultoria** |
-| **Licença** | 24 Horas (Teste) | Mensal ou Anual |
+| **Data Lake** | Congelado em Fev/2026 | **Sincronização Mensal Contínua** |
+| **Grid Geográfico** | Restrito (Estadual) | **Desbloqueado (Full Nacional)** |
+| **Nível de Suporte**| Fórum / Issues | **WhatsApp + Consultoria** |
+| **Chave de Acesso** | 24 Horas (Validação Temporal) | **Assinatura (Mensal / Anual)** |
+<br>
 
----
+## 🔐 PROTOCOLO DE AUTENTICAÇÃO (HWID)
 
-## 🔑 Ativação e Suporte
+O Chandra opera sob rigorosa segurança arquitetural. Sua licença é criptografada e atrelada fisicamente aos componentes da sua máquina (`Hardware ID`). 
 
-O software utiliza proteção por **HWID**, garantindo que sua licença seja exclusiva para sua máquina.
+**Para solicitar sua chave de ignição (Serial Teste) ou realizar o upgrade:**
 
-**Para solicitar seu Serial Teste ou consultar valores de atualização de base:**
-1. Inicie o programa e copie o seu código **HARDWARE ID** na tela de bloqueio.
-2. Envie o ID para o nosso suporte:
-   * **WhatsApp:** [Solicitar Serial / Atualização de Base](https://wa.me/5534984241729)
-   * **Responsável:** Samuel Bovo Filiaci
+1. Abra o Chandra B2B.
+2. Copie a chave alfanumérica exibida no terminal de bloqueio (`HARDWARE ID`).
+3. Envie o código para o WhastApp abaixo:
 
----
+<div align="center">
+  
+[![Solicitar Access Key](https://img.shields.io/badge/SOLICITAR_CHAVE_VIA_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/5534984241729)
 
-## 🔬 Diferenciais Tecnológicos
+<p>👤 <b>Head de Operações:</b> Samuel </p>
 
-* **Motor de Alta Performance:** Utiliza arquitetura de banco de dados colunar de última geração, garantindo consultas instantâneas em bases de dados com milhões de registros.
+</div>
+<br>
 
-* **Compressão Inteligente de Dados:** Armazenamento em formato de alta densidade, reduzindo o espaço em disco sem perder a velocidade de processamento.
+## 🦾 STACK TECNOLÓGICA & DIFERENCIAIS
 
-* **Interface Fluida:** Desenvolvido com tecnologia de interface reativa, otimizada para o fluxo de trabalho profissional e modo escuro nativo.
-
-* **Segurança de Licenciamento:** Sistema de ativação vinculado ao hardware (HWID) e sincronização temporal via protocolos oficiais de rede, garantindo que sua licença esteja sempre protegida e funcional.
-
----
-
-**Nota:** O Chandra B2B utiliza apenas dados públicos disponibilizados pela Receita Federal do Brasil.
+* 🦅 **DuckDB Engine:** Processamento analítico *in-process* ultrarrápido. O fim das telas de carregamento infinitas.
+* 📦 **Parquet Compression:** Engenharia colunar que esmaga terabytes de dados em gigabytes perfeitamente otimizados.
+* 🌌 **Reactive Dark Mode UI:** Interface desenhada para reduzir a fadiga visual durante jornadas intensas de mineração de dados.
+* 🛡️ **Anti-Piracy Core:** Sistema de sincronização temporal via servidores NTP globais integrado à autenticação física de hardware.
