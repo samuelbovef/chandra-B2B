@@ -84,11 +84,12 @@ Extraia o conteúdo do banco de dados. Mova a pasta gerada (`base_dados`) para o
 
 1. Inicie a aplicação Chandra B2B.
 2. Copie a chave alfanumérica única exibida no terminal de bloqueio (`HARDWARE ID`).
-3. Acesse o portal de licenciamento oficial clicando no botão abaixo:
+3. Acesse a minha Central para atendimento comercial e emissão da licença.
 
 <div align="center">
 
-[![Solicitar Chave de Acesso](https://img.shields.io/badge/SOLICITAR_ACESSO_CORPORATIVO-00ffcc?style=for-the-badge&logo=rocket&logoColor=black&labelColor=1a1a1a)](https://suporte-seriais.pages.dev/)
+[![Central de Atendimento](https://img.shields.io/badge/ACESSAR_CENTRAL_DE_ATENDIMENTO-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelbovef/suporte)
 
 </div>
-<br>
+
+---
