@@ -80,20 +80,15 @@ Extraia o conteúdo do banco de dados. Mova a pasta gerada (`base_dados`) para o
 <br>
 
 
-**Para solicitar sua chave de avaliação ou realizar o licenciamento corporativo:**
+**Para solicitar sua chave de acesso ou licenciamento corporativo:**
 
 1. Inicie a aplicação Chandra B2B.
 2. Copie a chave alfanumérica única exibida no terminal de bloqueio (`HARDWARE ID`).
-3. Encaminhe o código via WhatsApp:
+3. Acesse o portal de licenciamento oficial clicando no botão abaixo:
 
 <div align="center">
-  
-[![Solicitar Chave de Acesso](https://img.shields.io/badge/SOLICITAR_ACESSO_CORPORATIVO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/5534984241729)
 
-
-<p><b>Contato:</b> Samuel </p>
+[![Solicitar Chave de Acesso](https://img.shields.io/badge/SOLICITAR_ACESSO_CORPORATIVO-00ffcc?style=for-the-badge&logo=rocket&logoColor=black&labelColor=1a1a1a)](https://suporte-seriais.pages.dev/)
 
 </div>
 <br>
-
-
