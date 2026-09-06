@@ -86,6 +86,10 @@ Extraia o conteúdo do banco de dados. Mova a pasta gerada (`base_dados`) para o
 2. Copie a chave alfanumérica única exibida no terminal de bloqueio (`HARDWARE ID`).
 3. Acesse a minha Central para atendimento comercial e emissão da licença.
 
+## Suporte e Serviços
+
+Precisou de ajuda com dúvidas, erros ou suporte? Acesse a Central para abrir um protocolo de atendimento.
+
 <div align="center">
 
 [![Central de Atendimento](https://img.shields.io/badge/ACESSAR_CENTRAL_DE_ATENDIMENTO-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelbovef/suporte)
